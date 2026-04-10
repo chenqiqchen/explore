@@ -20,7 +20,7 @@ export default defineConfig({
                 {
                     text: 'JavaScript',
                     items: [
-                        { text: 'JavaScript文章1', link: '/frontend/javascript/' },
+                        { text: '如何切换元素显示与隐藏', link: '/frontend/javascript/how-to-toggle-element-display' },
                     ],
                 },
                 {
