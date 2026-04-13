@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "X7 Blog"
-  text: "记录前端学习与实践"
+  text: "记录学习与实践"
   tagline: "把经验沉淀为可复用的方法"
   actions:
     - theme: brand
