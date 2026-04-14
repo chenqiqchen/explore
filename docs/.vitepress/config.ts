@@ -60,6 +60,12 @@ export default defineConfig({
                         { text: '版本号中 ^ 和 ~ 的区别', link: '/frontend/engineering/npm-caret-vs-tilde' },
                     ],
                 },
+                {
+                    text: '开发工具',
+                    items: [
+                        { text: '【git】代码双仓库备份指南', link: '/frontend/development-tools/code-dual-repository-backup' },
+                    ],
+                },
             ],
             // '/backend/': [
             //     {
