@@ -2,4 +2,4 @@
 
 Vue 分类文章列表（持续更新）：
 
-- 暂无文章，欢迎开始发布第一篇。
+- [如何打开弹窗](/frontend/vue/how-to-open-dialog)
