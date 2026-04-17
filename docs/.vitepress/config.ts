@@ -59,6 +59,7 @@ export default defineConfig({
                     items: [
                         { text: '版本号中 ^ 和 ~ 的区别', link: '/frontend/engineering/npm-caret-vs-tilde' },
                         { text: '如何配置 @ 别名', link: '/frontend/engineering/how-to-configure-at-alias' },
+                        { text: 'ESLint 配置入门指南', link: '/frontend/engineering/eslint-config-getting-started' },
                     ],
                 },
                 {
