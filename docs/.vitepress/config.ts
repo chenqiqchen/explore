@@ -46,6 +46,7 @@ export default defineConfig({
                     text: 'React',
                     items: [
                         { text: 'React 常用知识点速查', link: '/frontend/react/react-base' },
+                        { text: 'Next.js App Router', link: '/frontend/react/nextjs-app-router-full-guide' },
                     ],
                 },
                 {
