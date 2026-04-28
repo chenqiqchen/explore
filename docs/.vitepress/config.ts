@@ -69,6 +69,7 @@ export default defineConfig({
                 {
                     text: '开发工具',
                     items: [
+                        { text: '【git】指令场景实战：单分支与多分支协作流程', link: '/frontend/development-tools/git-commands-getting-started' },
                         { text: '【git】代码双仓库备份指南', link: '/frontend/development-tools/code-dual-repository-backup' },
                         { text: '【Nginx】前端项目部署与反向代理实战指南', link: '/frontend/development-tools/nginx-practical-guide-for-frontend' },
                     ],
